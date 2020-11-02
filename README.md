@@ -1,6 +1,6 @@
 ### Hello World 👋  我是圆子(Yuanzi)
 
-### 努力搬砖的前端程序媛
+## 努力搬砖的前端程序媛
 ---
 - 🔭 目前正在家搬砖ing
 - 🌱 目前正在学习flutter、react、vue
@@ -24,5 +24,11 @@
 <br />
 <br />
 
+---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cqy0000)](https://github.com/cqy0000/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![cqy0000's github stats](https://github-readme-stats.vercel.app/api?username=cqy0000)](https://github.com/cqy0000/github-readme-stats)
+
+</details>
